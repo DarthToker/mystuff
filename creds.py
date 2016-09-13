@@ -1,0 +1,13 @@
+# RENAME THIS FILE TO creds.py before use!
+import os
+
+#Alexa Settings
+ProductID = "pibot"
+Security_Profile_Description ="pibot"
+Security_Profile_ID  = "amzn1.application.cf1ccf5857784bd3944ef51435af9a0e"
+Client_ID = "amzn1.application-oa2-client.f779b4b85d07438e8c65e890a5668914"
+Client_Secret = "2c9f2a631c6fbd0af30cfbe56694ec68ae6f8551950e7e945cca12e16d3bd5b0"
+
+# Alexa Refresh Token
+refresh_token = ''
+refresh_token = "Atzr|IQEBLjAsAhR3ko228lGAphsyh6uAdiCqFTrS0AIUEdtLGHi0v9oRsyCnguRqZyQZonTJnohmZJgbCpnnzmj-zFoAe5nDUX9X9lOy5m1QdgkwFz9MKI-wLFs3bWK4L-gjH6jeOQpd30TO_g7-MIyokWtFrvy_0tehL8mnR0UrchXx-F6ugQnRfS9ZiFiFL6oOy-CCq2gA1cy-7apJF0Z_k4HNP_YaYmR5VbYHgQJ6fTQSpr0WCwZtw7fuqhC-WWlMUrGkLciiFgDhqZTpQHKLN4hf8CEe_lXhBg47MdROSWF7wPyNFUz5T4GUAZtXzzoGP3gz3l7lo4TLw57XQETwEAUQni4ykaF3gztNJqcBq39cI54g6-DusOUqCS8GiV5mLQ8rCCCEl4gfK1WXQkLG5UdSQg"
